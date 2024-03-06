@@ -1,5 +1,5 @@
 --Veriden kendim çıkardığım soru ve cevabı
---Her bir ülke için yapılan toplam reklam harcamaları, ortalama oyuncu başına elde edilen  IAP ve (ad revenue) miktarları nedir?
+--Her bir ülke için yapılan toplam reklam harcamaları, ortalama oyuncu başına elde edilen  IAP ve ad revenue miktarları nedir?
 --Bu değerlere dayanarak, ülke bazında ortalama kullanıcı başına karlılık oranı hesaplaması:
 
 WITH user_revenue AS (
